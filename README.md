@@ -15,3 +15,5 @@ This project showcases a logistics performance dashboard built using Microsoft E
 
 ## 📁 Project File
 👉 👉 [Click here to download the Excel Dashboard](./Logistics Analysis Dashboard.xlsx)
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
